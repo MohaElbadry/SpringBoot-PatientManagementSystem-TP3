@@ -15,10 +15,8 @@ Une application basée sur Spring Boot qui implémente un système de gestion ho
 - Java 21
 - Spring Boot 3.4.3
 - Spring Data JPA
-- Spring Web MVC
 - MySQL
 - Maven
-- Lombok
 
 ## Fonctionnalités
 
