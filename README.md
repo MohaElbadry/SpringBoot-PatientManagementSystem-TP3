@@ -1,6 +1,14 @@
-# Système de Gestion Hospitalière (Hospital Management System)
+# Hospital Management System
 
-Une application basée sur Spring Boot qui implémente un système de gestion hospitalière permettant de gérer les patients, les consultations et les dossiers médicaux.
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-3.4.3-brightgreen" alt="Spring Boot Version"/>
+  <img src="https://img.shields.io/badge/Java-21-orange" alt="Java Version"/>
+  <img src="https://img.shields.io/badge/MySQL-Database-blue" alt="Database"/>
+  <img src="https://img.shields.io/badge/JPA-Hibernate-green" alt="JPA"/>
+</p>
+
+<p align="center">
+Une application basée sur Spring Boot qui implémente un système de gestion hospitalière permettant de gérer les patients, les consultations et les dossiers médicaux.</p>
 
 ## Technologies Utilisées
 
@@ -82,7 +90,6 @@ cd Hospital_mvc
    - Créer une base de données nommée `hospital_db`
    - Vérifier les paramètres de connexion dans `application.properties`
 
-
 L'application sera accessible à l'adresse : `http://localhost:8080`
 
 ## Structure du Projet
@@ -112,9 +119,6 @@ src/
                 └── hospital_mvc/
                     └── HospitalMvcApplicationTests.java
 ```
-
-
-
 
 ## Base de Données
 
